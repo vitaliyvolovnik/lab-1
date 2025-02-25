@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lF41x6S+BttjY5XA43jR5FE6nLirbdZoGBevYfbv0P+FLOgGVPPyGI+wAjqIKLRylVAVTu8g+GmZ1dLj0CBUiA==",
+  "success": true,
+  "projectFilePath": "/home/vitaliy/Documents/university/lab-1/PointsApi/PointsApi.csproj",
+  "expectedPackageFiles": [
+    "/home/vitaliy/.nuget/packages/microsoft.aspnetcore.openapi/8.0.12/microsoft.aspnetcore.openapi.8.0.12.nupkg.sha512",
+    "/home/vitaliy/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/vitaliy/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/vitaliy/.nuget/packages/sixlabors.imagesharp/3.1.6/sixlabors.imagesharp.3.1.6.nupkg.sha512",
+    "/home/vitaliy/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/home/vitaliy/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/home/vitaliy/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/home/vitaliy/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}

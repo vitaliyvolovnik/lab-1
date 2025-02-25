@@ -1,0 +1,12 @@
+/home/vitaliy/Documents/university/lab-1/PointLibrary/bin/Release/net8.0/PointLibrary.deps.json
+/home/vitaliy/Documents/university/lab-1/PointLibrary/bin/Release/net8.0/PointLibrary.dll
+/home/vitaliy/Documents/university/lab-1/PointLibrary/bin/Release/net8.0/PointLibrary.pdb
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/PointLibrary.csproj.AssemblyReference.cache
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/PointLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/PointLibrary.AssemblyInfoInputs.cache
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/PointLibrary.AssemblyInfo.cs
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/PointLibrary.csproj.CoreCompileInputs.cache
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/PointLibrary.dll
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/refint/PointLibrary.dll
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/PointLibrary.pdb
+/home/vitaliy/Documents/university/lab-1/PointLibrary/obj/Release/net8.0/ref/PointLibrary.dll
